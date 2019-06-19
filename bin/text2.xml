@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <parameter name="uid" value="j.prasannanjaneyulu131"/>
+    <classes>
+      <class name="baba.GmailMethodsDatadriven"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
